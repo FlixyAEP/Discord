@@ -30,7 +30,7 @@ client.on('ready', async () => {
     .setName('8kflixy')
     .setDetails(`gg/frieza [${formatTime()}]`)
     .setStartTimestamp(Date.now())
- .setAssetsLargeImage('https://qph.cf2.quoracdn.net/main-qimg-ff60160d5a80bd25f7387f8072481969') //You can put links in tenor or discord and etc.
+ .setAssetsLargeImage('https://media.discordapp.net/attachments/1139564276042965164/1139629624490475570/untitled15.png?width=426&height=426') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('MIGHT BE AFK') //Text when you hover the Large image
     .setAssetsSmallImage('') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('FIRE') //Text when you hover the Small image
