@@ -32,7 +32,7 @@ client.on('ready', async () => {
     .setStartTimestamp(Date.now())
  .setAssetsLargeImage('https://qph.cf2.quoracdn.net/main-qimg-ff60160d5a80bd25f7387f8072481969') //You can put links in tenor or discord and etc.
     .setAssetsLargeText('MIGHT BE AFK') //Text when you hover the Large image
-    .setAssetsSmallImage('https://media3.giphy.com/media/l4ua3fJyY3dnLWYBwc/giphy.gif?cid=6c09b952kld0oaw72ttoc0wat57odqc8jgd2hqibszc1uib5&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s') //You can put links in tenor or discord and etc.
+    .setAssetsSmallImage('') //You can put links in tenor or discord and etc.
     .setAssetsSmallText('FIRE') //Text when you hover the Small image
     .addButton('Discord Server', 'https://discord.gg/frieza')
     .addButton('My Links', 'https://linktr.ee/flixy.ae');
